@@ -1,4 +1,4 @@
-# RFC-001 — Decomposição do Monólito Lata Velha em Microsserviços
+# RFC-006 — Decomposição do Monólito Lata Velha em Microsserviços
 
 | Campo | Definição |
 |---|---|
